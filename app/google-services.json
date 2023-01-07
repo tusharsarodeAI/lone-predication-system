@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864804747757",
+    "project_id": "loan-eligibility-predict-a7fd0",
+    "storage_bucket": "loan-eligibility-predict-a7fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864804747757:android:c85adcf01e7e0ca8da0fe4",
+        "android_client_info": {
+          "package_name": "com.example.loaneligibilityprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864804747757-1b23lqc9ufb6b11jb40clk9sfob8ktah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWMkx-q_do9_vp7IiKl5F3IwcKLPj_PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864804747757-1b23lqc9ufb6b11jb40clk9sfob8ktah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

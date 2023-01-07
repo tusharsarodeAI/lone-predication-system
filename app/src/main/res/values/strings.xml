@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Loan eligibility prediction</string>
+    <string name="select_gender">Select gender.....</string>
+    <string name="select_married">Select Married Status....</string>
+    <string name="loan_eligibility_prediction">fill your personal details </string>
+    <string name="dependents">dependents</string>
+    <string name="select_dependents">select dependents</string>
+    <string name="education">education...</string>
+    <string name="self_employed">self employed</string>
+    <string name="applicant_income">applicant Income</string>
+    <string name="credit_history">Credit History</string>
+    <string name="property_area">Property Area</string>
+    <string name="submit">Submit</string>
+    <string name="loan_amount">Loan Amount</string>
+
+
+    <string name="login_form_title">Login</string>
+    <string name="login_form_username">Username</string>
+    <string name="login_form_password">Password</string>
+    <string name="login_form_login">LOGIN</string>
+    <string name="enter_pancard_number">enter pancard number</string>
+    <string name="enter_details_and_uplode_documents">enter details and uplode documents</string>
+    <string name="enter_adharcard_number">enter adharcard number</string>
+    <string name="uplode_passport">uplode passport</string>
+    <string name="uplode_voter_id">uplode voter id</string>
+    <string name="uplode_electricity_bill">uplode electricity bill</string>
+    <string name="uplode_pancard">uplode pancard</string>
+    <string name="uplode_aadhar_card">uplode aadhar card</string>
+</resources>
